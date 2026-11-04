@@ -1,1 +1,18 @@
-/* Start coding here */
+*{box-sizing: border-box;margin: 0;padding: 0;}
+.container{
+    background-color: #94aabd;
+    padding: 16px 24px;
+    color:#1e3a5f;
+}
+.image div{
+    width: 500px;
+    background-color: #a8aeb5;
+    border: 1px solid #1e3a5f;
+    padding: 8px 12px;
+    margin: 24px 12px;
+}
+.image img{
+    width: 100%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
