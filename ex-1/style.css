@@ -1,1 +1,23 @@
-/* Start coding here */
+*{ 
+    box-sizing: border-box;
+    margin: 0; padding: 0;
+}
+
+.container {
+    background-color: peachpuff;
+    padding: 15px 50px;
+}
+
+.image div {
+    width: 500px;
+    background-color: peachpuff;
+    border: 2px solid black;
+    margin: 30px 15px;
+    padding: 15px 30px;
+}
+
+.image img {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
