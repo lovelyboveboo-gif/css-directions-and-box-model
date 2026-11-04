@@ -1,1 +1,22 @@
-/* Start coding here */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container-top {
+    background-color: rgb(146, 170, 190);
+    padding: 25px 60px;
+}
+
+.content div {
+    width: 500px;
+    margin: 30px 60px;
+    border: 3px solid black;
+    text-align: center;
+}
+
+.content img {
+    width: 100%;
+    display: block;
+}
